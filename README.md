@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mike Madden, a fourth year Computing Security Major at Rochester Institute of Technology.
+I'm Mike Madden, a fifth year Computing Security Major at Rochester Institute of Technology.
 
 
 <!--
